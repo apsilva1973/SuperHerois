@@ -1,0 +1,7 @@
+git init
+git add . todos os arquivos 
+git commit -m "menssagem para o commit" - cria o commit de fato
+git push - sincronzar com o repositorio no GITHUB
+git status - vejo os arquivos que já foram adicionados ou não ao commit
+git log - ultimos commits feitos
+
